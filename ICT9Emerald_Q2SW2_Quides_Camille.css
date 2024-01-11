@@ -1,0 +1,44 @@
+body 
+{background-color:aliceblue; background-image: url("pizzabanner3.jfif"); background-repeat: repeat-x;}
+
+
+#logo 
+{ text-align:center}
+
+#decoration
+{text-align: left}
+
+#pizza1
+{text-align: center; font-variant: small-caps; color: burlywood; background-color: lightgoldenrodyellow;}
+
+#pizza
+{ width:1000px; height: 1000px; }
+
+pre { text-align:center; }
+
+table { margin-left:auto; margin-right:auto; border-top: blueviolet; border-bottom: red; border-left: yellow; border-right:greenyellow; }
+
+td{ text-align:center }
+
+
+h1.burgers { font-variant:small-caps; text-align:center; color:palevioletred; background-color:lightpink; }
+
+h1.pasta { font-variant:small-caps; text-align:center; color:steelblue; background-color:skyblue; }
+h1.drinks { font-variant:small-caps; text-align:center; color:bisque; background-color:orange; }
+
+tr.italic {font-style: italic; background-color: lightpink;}
+
+img { border-radius:50%; height:200px; width:200px }
+tr.Bold { font-weight:bold; background-color:skyblue; }
+
+#color {background-color: lightpink;}
+
+#blue {background-color: steelblue;}
+tr.pinkcolor {background-color: lightpink;}
+
+tr.orangecolor {background-color: orange; }
+
+
+
+
+
